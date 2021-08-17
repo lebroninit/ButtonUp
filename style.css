@@ -1,0 +1,30 @@
+#search{
+    color: turquoise;
+    border-color: turquoise;
+    border-radius: 20px;
+    height:35px;
+    width: 175px;
+    background-color: light-grey;
+    font-size: medium;
+    
+}   
+#add{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    height:35px;
+    width:35px;
+    color: white;
+    border-color: turquoise;
+    background-color: turquoise;
+    font-size: larger;
+    text-align: center;
+}
+#create{
+    height:45px;
+    width:225px;
+    background-color: rgb(14, 71, 158);
+    color: white;
+    font-size: large;
+    box-shadow: 2px 2px 4px black;
+}
